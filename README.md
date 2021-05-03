@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priya-raja.
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning react redux.
+- 🌱 I’m currently learning Next js, react and Node js.
 - 💞️ I’m looking to collaborate on full stack react projects.
 - 📫 How to reach me -> priya.thevar89@gmail.com
 
