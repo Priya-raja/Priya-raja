@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Priya-raja.
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning Next js, react and Node js.
+- 👀 I’m a Front End Developer(MERN stack)
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on full stack react projects.
-- 📫 How to reach me -> priya.thevar89@gmail.com
+- 📫 How to reach me -> priya.raja8002@gmail.com
 
 <!---
 Priya-raja/Priya-raja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
