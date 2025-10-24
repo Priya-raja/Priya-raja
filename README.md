@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priya-raja.
-- 👀 I’m a Front End Developer
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 👀 I’m a Full Stack Developer(MERN)
+- 🌱 I’m currently Machine learning/AI
 - 📫 How to reach me -> priya.raja8002@gmail.com
 
 <!---
