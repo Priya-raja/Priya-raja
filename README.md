@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priya-raja.
-- 👀 I’m a Full Stack Developer(MERN)
-- 🌱 I’m currently Machine learning/AI
+- 👀 I’m a Full Stack Developer(MERN) transitioning to ML/AI.
+- 🌱 I’m currently Machine learning/AI and posting few projects demonstarting how agents work.
 - 📫 How to reach me -> priya.raja8002@gmail.com
 
 <!---
