@@ -13,8 +13,8 @@ Currently exploring **Vector Embeddings**, **RAG Systems**, and **AI Agents**.
 
 ## 🛠️ Tech Stack
 
-**Web:** JavaScript • React • Node.js • Next.js • MongoDB  
-**ML/AI:** Python • FAISS • LLMs • Ollama • PyTorch
+**Web:** JavaScript • React • Node.js • Next.js • MongoDB • SQL • postgresql 
+**ML/AI:** Python • FAISS • LLMs • Ollama • TensorFlow • ML Algorithms • Statistics
 
 ## 📚 Currently Learning
 
