@@ -7,7 +7,7 @@ Transitioning from web development to building intelligent AI systems.
 
 Currently exploring **Vector Embeddings**, **RAG Systems**, and **AI Agents**.
 
-- 🔍 Semantic search with FAISS & Ollama
+- 🔍 Semantic search with FAISS, Ollama and Nomic embedding 
 - 🤖 Building practical AI agents
 - 📚 Documenting my ML/AI journey
 
