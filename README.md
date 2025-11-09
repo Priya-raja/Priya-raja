@@ -1,13 +1,13 @@
 # Hi, I'm Priya Raja 👋
 
-**Full Stack Developer (MERN) → ML/AI Engineer**  
+**Full Stack Developer (MERN) → Applied AI Engineer**  
 Transitioning from web development to building intelligent AI systems.
 
 ## 🚀 What I'm Building
 
 Currently exploring **Vector Embeddings**, **RAG Systems**, and **AI Agents**.
 
-- 🔍 Semantic search with FAISS, Ollama and Nomic embedding 
+- 🔍 Semantic search with FAISS, Ollama, LLama, and Nomic embedding, OpenAI
 - 🤖 Building practical AI agents
 - 📚 Documenting my Applied AI journey
 
