@@ -9,12 +9,12 @@ Currently exploring **Vector Embeddings**, **RAG Systems**, and **AI Agents**.
 
 - 🔍 Semantic search with FAISS, Ollama and Nomic embedding 
 - 🤖 Building practical AI agents
-- 📚 Documenting my ML/AI journey
+- 📚 Documenting my Applied AI journey
 
 ## 🛠️ Tech Stack
 
 **Web:** JavaScript • React • Node.js • Next.js • MongoDB • SQL • postgresql 
-**ML/AI:** Python • FAISS • LLMs • Ollama • TensorFlow • ML Algorithms • Statistics
+**Applied AI:** Python • FAISS • LLMs • Ollama • TensorFlow • ML Algorithms • Statistics 
 
 ## 📚 Currently Learning
 
@@ -29,7 +29,7 @@ ML/AI Engineer roles in **UAE** 🇦🇪
 
 ## 📫 Reach Out
 
-📧 **Email:** priya.raja8002@gmail.com  
+📧 **Email:** priya.thevar89@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/priya-raja-web/  
 
 
