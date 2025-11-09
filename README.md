@@ -1,4 +1,4 @@
-# Hi, I'm Priya Raja 👋
+# Hi, I'm Priya 👋
 
 **Full Stack Developer (MERN) → Applied AI Engineer**  
 Transitioning from web development to building intelligent AI systems.
