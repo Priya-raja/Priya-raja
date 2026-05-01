@@ -1,20 +1,19 @@
 # Hi, I'm Priya 👋
 
-**Full Stack Developer (MERN) → Applied AI Engineer**  
-Transitioning from web development to building intelligent AI systems.
+**Applied AI Engineer**  
+Transitioning from web development to building intelligent AI Agents.
 
 ## 🚀 What I'm Building
 
 Currently exploring **Vector Embeddings**, **RAG Systems**, and **AI Agents**.
 
-- 🔍 Semantic search with FAISS, Ollama, LLama, and Nomic embedding, OpenAI
 - 🤖 Building practical AI agents
 - 📚 Documenting my Applied AI journey
 
 ## 🛠️ Tech Stack
 
 **Web:** JavaScript • React • Node.js • Next.js • MongoDB • SQL • postgresql 
-**Applied AI:** Python • FAISS • LLMs • Ollama • TensorFlow • ML Algorithms • Statistics 
+**Applied AI:** Python • Vectors • LLMs • Skills • Langchain • MLOps
 
 ## 📚 Currently Learning
 
@@ -25,17 +24,17 @@ Currently exploring **Vector Embeddings**, **RAG Systems**, and **AI Agents**.
 
 ## 🎯 Open to
 
-ML/AI Engineer roles in **UAE** 🇦🇪
+AI Engineer roles in **UAE** 🇦🇪 or Remote anywhere.
 
 ## 📫 Reach Out
 
-📧 **Email:** priya.thevar89@gmail.com  
+📧 **Email:** workinfo.priya@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/priya-raja-web/  
 
 
 ---
 
-*Actively building and learning. Check out my repos for working AI/ML projects!*
+*Actively building and learning. Check out my repos for working AI projects!*
 
 <!---
 Priya-raja/Priya-raja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
