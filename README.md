@@ -1,14 +1,14 @@
 # Hi, I'm Priya 👋
 
 **Applied AI Engineer**  
-Transitioning from web development to building intelligent AI Agents.
+Transitioning from web development to building intelligent Agents.
 
 ## 🚀 What I'm Building
 
-Currently exploring **Vector Embeddings**, **RAG Systems**, and **AI Agents**.
-
-- 🤖 Building practical AI agents
+Currently exploring ** Guardrails in agents. Frameworks like openai,crew ai,langGraph **
+- 🤖 Created a financial analyst agent and implements evals using Phoenix Arize.
 - 📚 Documenting my Applied AI journey
+- Contribution to open-source projects.
 
 ## 🛠️ Tech Stack
 
@@ -17,10 +17,9 @@ Currently exploring **Vector Embeddings**, **RAG Systems**, and **AI Agents**.
 
 ## 📚 Currently Learning
 
-- Retrieval-Augmented Generation (RAG)
-- Vector Embeddings & Semantic Search
-- AI Agents & Autonomous Systems
-- LLM Fine-tuning & Prompt Engineering
+- Hybrid Rag and caching in Redis (RAG)
+- Sub agents & Autonomous Systems
+- Context Engineering and now Harness
 
 ## 🎯 Open to
 
