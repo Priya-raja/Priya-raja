@@ -25,7 +25,7 @@ AI Engineer roles in **UAE** 🇦🇪 or Remote anywhere.
 
 ## 📫 Reach Out
 
-📧 **Email:** workinfo.priya@gmail.com  
+📧 **Email:** priya.thevar89@gmail.com
 🔗 **LinkedIn:** https://www.linkedin.com/in/priya-raja-web/  
 
 
