@@ -3,7 +3,7 @@
 > Constantly exploring the boundaries of Agentic AI, system guardrails, and automated evaluation pipelines.
 
 - 🛠️ **Researching:** Building bulletproof guardrails for multi-agent systems using LangGraph, CrewAI, and OpenAI Assistants.
-- 📊 **Evals & OSS:** Core contributor to **FutureAGI**, architecting robust NLP evaluation metrics (like phonetic and set-based similarity) for custom code evaluation paths.
+- 📊 **Evals & OSS:** Contributor to **FutureAGI**, architecting robust NLP evaluation metrics (like phonetic and set-based similarity) for custom code evaluation paths.
 - 🤖 **Latest Build:** Developed a financial analyst agent featuring automated evaluation and deep observability suites using Phoenix Arize.
 - ✍️ **Sharing:** Writing technical guides to map out the journey of moving models from notebooks to production.
 
