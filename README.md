@@ -1,19 +1,17 @@
-# Hi, I'm Priya 👋
+## 🌌 Priya | AI & Full Stack Engineer
 
-**Applied AI Engineer**  
-Transitioning from web development to building intelligent Agents.
+> Constantly exploring the boundaries of Agentic AI, system guardrails, and automated evaluation pipelines.
 
-## 🚀 What I'm Building
-
-Currently exploring ** Guardrails in agents. Frameworks like openai,crew ai,langGraph **
-- 🤖 Created a financial analyst agent and implements evals using Phoenix Arize.
-- 📚 Documenting my Applied AI journey
-- Contribution to open-source projects.
+- 🛠️ **Researching:** Building bulletproof guardrails for multi-agent systems using LangGraph, CrewAI, and OpenAI Assistants.
+- 📊 **Evals & OSS:** Core contributor to **FutureAGI**, architecting robust NLP evaluation metrics (like phonetic and set-based similarity) for custom code evaluation paths.
+- 🤖 **Latest Build:** Developed a financial analyst agent featuring automated evaluation and deep observability suites using Phoenix Arize.
+- ✍️ **Sharing:** Writing technical guides to map out the journey of moving models from notebooks to production.
 
 ## 🛠️ Tech Stack
 
-**Web:** JavaScript • React • Node.js • Next.js • MongoDB • SQL • postgresql 
-**Applied AI:** Python • Vectors • LLMs • Skills • Langchain • MLOps
+- **AI & Orchestration:** Python (FastAPI), LangGraph, CrewAI, LangChain, Phoenix Arize, OpenAI API
+- **Backend & Infra:** Node.js, gRPC, TypeScript, Microservices, PostgreSQL, SQL, MongoDB, ClickHouse, Docker, AWS
+- **Frontend:** React, Next.js, TailwindCSS
 
 ## 📚 Currently Learning
 
