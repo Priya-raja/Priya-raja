@@ -20,10 +20,11 @@ A RAG application built around a **fictional airline corpus**, covering question
 
 - Combines **BM25 and Qdrant vector retrieval** with topic and policy-year filtering.
 - Produces **Pydantic-structured answers** with source chunk citations and citation validation.
+- Uses **Redis caching** in the RAG pipeline.
 - Checks document content hashes to detect an outdated index.
 - Explores **JEV routing**, versioned prompts and **Phoenix tracing** to understand quality and latency tradeoffs.
 
-**Stack:** Python · LangChain · Qdrant · OpenAI · BM25 · Pydantic · Phoenix
+**Stack:** Python · LangChain · Qdrant · Redis · OpenAI · BM25 · Pydantic · Phoenix
 
 [Explore AeroNova](https://github.com/Priya-raja/Agentic_System_Design/tree/main/rag_airlines) · [Retrieval implementation](https://github.com/Priya-raja/Agentic_System_Design/blob/main/rag_airlines/retrieve.py) · [Answer and citation validation](https://github.com/Priya-raja/Agentic_System_Design/blob/main/rag_airlines/answer.py)
 
@@ -72,7 +73,7 @@ I contributed a phonetic similarity comparator and corresponding SDK support to 
 | Area | Technologies |
 | --- | --- |
 | Frontend | React, Next.js, TypeScript, Tailwind CSS |
-| Backend | Python, FastAPI, Node.js, PostgreSQL, MongoDB |
+| Backend | Python, FastAPI, Node.js, PostgreSQL, MongoDB, Redis |
 | Applied AI | LangChain, OpenAI API, AWS Bedrock, Qdrant, BM25, Pydantic |
 | Cloud and tooling | AWS, Docker, Terraform, GitHub Actions, Phoenix |
 
