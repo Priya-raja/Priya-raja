@@ -49,12 +49,21 @@ A personal portfolio chatbot that answers questions using supplied professional 
 
 ## Merged open-source contributions
 
-I contributed a phonetic similarity comparator and corresponding SDK support to **FutureAGI**.
+I contributed a phonetic similarity comparator and corresponding SDK support to **FutureAGI**, and lab solutions to **Ed Donner’s agents course repository**.
 
 | Contribution | Implementation | Status |
 | --- | --- | --- |
 | [FutureAGI #617](https://github.com/future-agi/future-agi/pull/617) | Pure-Python Soundex-based phonetic similarity comparator integrated with the grounded evaluator interface | Merged |
 | [Agent Learning Kit #48](https://github.com/future-agi/agent-learning-kit/pull/48) | Python and TypeScript SDK comparator support, with test updates | Merged |
+
+### Agents course repository — merged lab contributions
+
+| Contribution | Work contributed | Status |
+| --- | --- | --- |
+| [ed-donner/agents #1364](https://github.com/ed-donner/agents/pull/1364) | Lab 3 solution implementing guardrails for the email tool in sales-agent tasks | Merged |
+| [ed-donner/agents #1330](https://github.com/ed-donner/agents/pull/1330) | Lab 2 solution comparing LLM outputs and implementing agentic patterns | Merged |
+
+[My fork](https://github.com/Priya-raja/agents) · [Upstream repository](https://github.com/ed-donner/agents)
 
 ---
 
